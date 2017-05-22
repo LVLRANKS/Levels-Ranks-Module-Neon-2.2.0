@@ -1,0 +1,24 @@
+﻿"Phrases"
+{
+	"Neon_Off"
+	{
+		"en"			"Neon [off]"
+		"ru"			"Неон [выкл]"
+	}
+	"Neon_On"
+	{
+		"en"			"Neon [on]"
+		"ru"			"Неон [вкл]"
+	}
+	"Neon_RankClosed"
+	{
+		"#format"		"{1:i}"
+		"en"			"Neon [{1} rank]"
+		"ru"			"Неон [{1} ранг]"
+	}
+	"Neon_RankOpened"
+	{
+		"en"			"Neon"
+		"ru"			"Неон"
+	}
+}
